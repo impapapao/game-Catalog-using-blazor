@@ -1,1 +1,3 @@
-/.vscode
+git config --global user.email "john.paolo1724@gmail.com"
+git config --global user.name "impapapao"
+  /.vscode
