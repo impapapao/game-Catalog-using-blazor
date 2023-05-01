@@ -9,33 +9,33 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = GameCatalog
 build_property.RootNamespace = GameCatalog
-build_property.ProjectDir = /home/impaolo15/Documents/game Catalog/GameCatalog/
+build_property.ProjectDir = C:\Users\Paolo Gonzales\Documents\GitHub\game-Catalog-using-blazor\GameCatalog\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/impaolo15/Documents/game Catalog/GameCatalog
+build_property.MSBuildProjectDirectory = C:\Users\Paolo Gonzales\Documents\GitHub\game-Catalog-using-blazor\GameCatalog
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/impaolo15/Documents/game Catalog/GameCatalog/App.razor]
+[C:/Users/Paolo Gonzales/Documents/GitHub/game-Catalog-using-blazor/GameCatalog/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/impaolo15/Documents/game Catalog/GameCatalog/Pages/DeleteGame.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGVsZXRlR2FtZS5yYXpvcg==
+[C:/Users/Paolo Gonzales/Documents/GitHub/game-Catalog-using-blazor/GameCatalog/Pages/DeleteGame.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlR2FtZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/impaolo15/Documents/game Catalog/GameCatalog/Pages/EditGame.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRWRpdEdhbWUucmF6b3I=
+[C:/Users/Paolo Gonzales/Documents/GitHub/game-Catalog-using-blazor/GameCatalog/Pages/EditGame.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEdhbWUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/impaolo15/Documents/game Catalog/GameCatalog/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+[C:/Users/Paolo Gonzales/Documents/GitHub/game-Catalog-using-blazor/GameCatalog/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/impaolo15/Documents/game Catalog/GameCatalog/_Imports.razor]
+[C:/Users/Paolo Gonzales/Documents/GitHub/game-Catalog-using-blazor/GameCatalog/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/impaolo15/Documents/game Catalog/GameCatalog/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-466jiu3y1q
+[C:/Users/Paolo Gonzales/Documents/GitHub/game-Catalog-using-blazor/GameCatalog/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-8z9kn1sns2

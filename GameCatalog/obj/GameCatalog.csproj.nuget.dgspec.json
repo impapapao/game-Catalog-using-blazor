@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/impaolo15/Documents/game Catalog/GameCatalog/GameCatalog.csproj": {}
+    "C:\\Users\\Paolo Gonzales\\Documents\\GitHub\\game-Catalog-using-blazor\\GameCatalog\\GameCatalog.csproj": {}
   },
   "projects": {
-    "/home/impaolo15/Documents/game Catalog/GameCatalog/GameCatalog.csproj": {
+    "C:\\Users\\Paolo Gonzales\\Documents\\GitHub\\game-Catalog-using-blazor\\GameCatalog\\GameCatalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/impaolo15/Documents/game Catalog/GameCatalog/GameCatalog.csproj",
+        "projectUniqueName": "C:\\Users\\Paolo Gonzales\\Documents\\GitHub\\game-Catalog-using-blazor\\GameCatalog\\GameCatalog.csproj",
         "projectName": "GameCatalog",
-        "projectPath": "/home/impaolo15/Documents/game Catalog/GameCatalog/GameCatalog.csproj",
-        "packagesPath": "/home/impaolo15/.nuget/packages/",
-        "outputPath": "/home/impaolo15/Documents/game Catalog/GameCatalog/obj/",
+        "projectPath": "C:\\Users\\Paolo Gonzales\\Documents\\GitHub\\game-Catalog-using-blazor\\GameCatalog\\GameCatalog.csproj",
+        "packagesPath": "C:\\Users\\Paolo Gonzales\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Paolo Gonzales\\Documents\\GitHub\\game-Catalog-using-blazor\\GameCatalog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/impaolo15/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Paolo Gonzales\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,6 +48,12 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.5, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23062.2, )",
+              "autoReferenced": true
             }
           },
           "imports": [
@@ -62,7 +70,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[7.0.5, 7.0.5]"
+              "version": "[7.0.4, 7.0.4]"
             }
           ],
           "frameworkReferences": {
@@ -70,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.105/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.2.23157.25\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
